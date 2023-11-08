@@ -7,3 +7,12 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <App />
   </React.StrictMode>
 );
+
+// const username = " Ravi";
+// const reactElement = React.createElement(
+//   "a",
+//   { href: "https://reactjs.org", target: "_blank" },
+//   "Learn React",
+//   username
+// );
+// ReactDOM.createRoot(document.getElementById("root")).render(reactElement);
